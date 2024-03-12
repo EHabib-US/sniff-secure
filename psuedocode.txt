@@ -1,0 +1,12 @@
+
+Step 1.  Sniff via pyshark
+
+Step 2. Use algorithm to find objects (pdf or exe or docx)
+
+Step 3. Export objects
+
+Step 4. MD5 hash or SHA-256 hash on object 
+
+Step 5. Use VirusTotal API call to scan hash of object to determine malware
+
+Step 6. Print out if malware was detected or not
