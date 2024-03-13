@@ -1,5 +1,8 @@
 
 Step 1.  Sniff via pyshark
+    - get default network adapter via WMI call
+    
+
 
 Step 2. Use algorithm to find objects (pdf or exe or docx)
 
