@@ -26,7 +26,7 @@ Please ensure that all dependencies are installed and properly configured on you
 3. Insert your VirusTotal API key in the script where indicated.
 
 ## Usage
-To use the tool, simply run the script from the command line:
+To use the tool, simply run the script from the command line inside of the /src/ directory:
 
 ```bash
 python network_security_monitor.py
