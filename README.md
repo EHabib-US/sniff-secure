@@ -1,4 +1,4 @@
-# Sniffer-Securer
+# Sniff-Secure
 A Python-Based Network Security Monitoring Tool
 
 ## Overview
