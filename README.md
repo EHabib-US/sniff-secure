@@ -1,4 +1,4 @@
-# Sniffer-Looker
+# Sniffer-Securer
 A Python-Based Network Security Monitoring Tool
 
 ## Overview
@@ -29,4 +29,4 @@ Please ensure that all dependencies are installed and properly configured on you
 To use the tool, simply run the script from the command line inside of the /src/ directory:
 
 ```bash
-python network_security_monitor.py
+python sniff.py
