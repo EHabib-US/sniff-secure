@@ -1,4 +1,5 @@
-# Sniffer-Looker - Network Security Monitoring Tool
+# Sniffer-Looker
+A Python-Based Network Security Monitoring Tool
 
 ## Overview
 This tool is designed to enhance network security by monitoring, capturing, and analyzing network traffic. Utilizing the power of various Python libraries, it captures packets on a selected network adapter, extracts HTTP objects for further analysis, and finally checks the hash of these objects against the VirusTotal API for any potential security threats. This process aids in identifying potentially malicious files and activities within a network.
