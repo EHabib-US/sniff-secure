@@ -128,7 +128,6 @@ def hash_exported_http_objects(export_dir):
     print(f"MD5 hashes of exported objects saved to {hash_file_path}")
 
 
-#CHANGE ANYTHING BELOW THIS:
 def progressbar():
     toolbar_width = 40
     sys.stdout.write("[%s]" % (" " * toolbar_width))
@@ -164,6 +163,8 @@ def check_hashes_against_virustotal(hash_file_path):
             print(f"Hash: {hash_str} - VirusTotal does not have data on this hash.")
 
         progressbar()  # Wait to prevent hitting the API rate limit
+
+
 
 #Main
 if __name__ == "__main__":
