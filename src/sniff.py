@@ -165,7 +165,7 @@ def check_hashes_against_virustotal(hash_file_path):
 
         progressbar()  # Wait to prevent hitting the API rate limit
 
-# Main function
+#Main
 if __name__ == "__main__":
     #Choose network adapter
     selected_adapter = choose_adapter()
